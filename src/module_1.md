@@ -1,5 +1,4 @@
-### TODO List
+# Project Update
 
-- [x] Initial setup
-- [ ] Add unit tests
-// Updated at 2024-12-29 11:58:52
+Fixed some bugs and added new features.
+// Updated at 2024-12-31 03:10:33
