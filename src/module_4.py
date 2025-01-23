@@ -1,6 +1,5 @@
-def main():
-    print('Hello World')
+import math
 
-if __name__ == '__main__':
-    main()
-// Updated at 2025-01-20 15:49:36
+def calculate_circle_area(radius):
+    return math.pi * radius ** 2
+// Updated at 2025-01-23 04:19:22
