@@ -1,4 +1,4 @@
-# Project Update
+## Documentation
 
-Fixed some bugs and added new features.
-// Updated at 2025-02-03 06:27:09
+This is a simple documentation file.
+// Updated at 2025-02-04 15:43:25
