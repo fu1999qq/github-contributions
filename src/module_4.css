@@ -1,5 +1,5 @@
-body {
-    font-family: sans-serif;
-    background-color: #f0f0f0;
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
 }
-// Updated at 2025-04-04 11:37:04
+// Updated at 2025-04-12 11:03:24
