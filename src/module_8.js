@@ -1,2 +1,3 @@
-console.log('Task completed');
-// Updated at 2025-04-13 21:56:09
+const add = (a, b) => a + b;
+console.log(add(5, 10));
+// Updated at 2025-04-14 07:50:28
