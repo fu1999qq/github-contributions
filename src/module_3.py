@@ -1,7 +1,5 @@
-class DataProcessor:
-    def __init__(self, data):
-        self.data = data
+import math
 
-    def process(self):
-        return sorted(self.data)
-// Updated at 2025-05-05 00:44:21
+def calculate_circle_area(radius):
+    return math.pi * radius ** 2
+// Updated at 2025-05-06 04:14:28
