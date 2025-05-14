@@ -1,2 +1,4 @@
-console.log('Task completed');
-// Updated at 2025-05-13 13:25:34
+document.addEventListener('DOMContentLoaded', () => {
+    console.log('App started');
+});
+// Updated at 2025-05-14 09:50:08
