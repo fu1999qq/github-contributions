@@ -1,2 +1,2 @@
-{"users": [{"id": 1, "name": "Alice"}, {"id": 2, "name": "Bob"}]}
-// Updated at 2025-05-15 11:14:47
+{"name": "app", "version": "1.0.0", "description": "A simple app"}
+// Updated at 2025-05-17 02:34:20
