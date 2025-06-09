@@ -1,6 +1,7 @@
-def main():
-    print('Hello World')
+class DataProcessor:
+    def __init__(self, data):
+        self.data = data
 
-if __name__ == '__main__':
-    main()
-// Updated at 2025-05-07 12:53:33
+    def process(self):
+        return sorted(self.data)
+// Updated at 2025-06-09 18:36:09
