@@ -1,5 +1,5 @@
-button {
-    padding: 10px 20px;
-    border-radius: 4px;
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
 }
-// Updated at 2025-07-19 18:40:10
+// Updated at 2025-07-24 19:30:58
