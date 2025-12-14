@@ -1,5 +1,4 @@
-### TODO List
+## Documentation
 
-- [x] Initial setup
-- [ ] Add unit tests
-// Updated at 2025-12-08 16:48:50
+This is a simple documentation file.
+// Updated at 2025-12-14 08:36:28
