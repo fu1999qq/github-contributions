@@ -1,3 +1,4 @@
-const add = (a, b) => a + b;
-console.log(add(5, 10));
-// Updated at 2025-12-19 09:03:38
+document.addEventListener('DOMContentLoaded', () => {
+    console.log('App started');
+});
+// Updated at 2025-12-20 15:38:05
