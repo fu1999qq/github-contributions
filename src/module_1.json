@@ -1,2 +1,2 @@
-{"users": [{"id": 1, "name": "Alice"}, {"id": 2, "name": "Bob"}]}
-// Updated at 2026-01-06 17:04:52
+{"config": {"theme": "dark", "notifications": true}}
+// Updated at 2026-01-08 03:31:13
